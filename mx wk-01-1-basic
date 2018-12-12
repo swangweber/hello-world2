@@ -1,0 +1,15 @@
+## Slide 5
+#  Assign 3 to identifier myint
+myint = 3
+
+#  Is myint a variable? Why?
+type(myint)
+
+#  Assign 4.3 to identifier myfloat
+myfloat = 4.3
+type(myfloat)
+
+#  Assign 3.3 to myint
+myint = 3.3
+
+# What happened here?
